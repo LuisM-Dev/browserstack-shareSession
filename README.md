@@ -1,5 +1,5 @@
 
-# Obtain BrowserStack public URL
+# Obtain BrowserStack session public URL
 
 Simple selenium project that shows how to obtain the BrowserStack session url, which can be shared with anyone inside and outside of the team.
 
