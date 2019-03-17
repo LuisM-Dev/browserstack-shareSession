@@ -1,11 +1,11 @@
 
 # Obtain BrowserStack public URL
 
-Simple project that shows how to obtain the session url that can be shared with anyone inside and outside of the team, which contains all the logs of selenium session
+Simple selenium project that shows how to obtain the BrowserStack session url, which can be shared with anyone inside and outside of the team.
 
 ## Getting Started
 
-To run this project just import as a normal Maven project
+To run this project just import it as a normal Maven project
 
 ### Prerequisites
 
