@@ -9,7 +9,7 @@ To run this project just import as a normal Maven project
 
 ### Prerequisites
 
-* [Java] (https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) version 11
+* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html/) version 11
 * [Maven](https://maven.apache.org/) version 3.5.3
 
 ## Running the tests
