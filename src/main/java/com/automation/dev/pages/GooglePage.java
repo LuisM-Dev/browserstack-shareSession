@@ -13,7 +13,7 @@ public class GooglePage extends BasePage {
     private WebElement searchButton;
 
     public void insertText(String text){
-        driver.inputData(searchInput, "Selenium");
+        driver.inputData(searchInput, text);
     }
 
     public GoogleResultsPage search(){
