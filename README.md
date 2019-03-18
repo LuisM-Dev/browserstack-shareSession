@@ -11,6 +11,7 @@ To run this project just import it as a normal Maven project
 
 * [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html/) version 11
 * [Maven](https://maven.apache.org/) version 3.5.3
+* [BrowserStack](https://www.browserstack.com) account (update config.properties file with credentials)
 
 ## Running the tests
 
